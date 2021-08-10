@@ -1,0 +1,2 @@
+Info: Create C:\Users\Thomas.DE\Desktop\Buildtest\ test Client
+Info: Create Info.plist

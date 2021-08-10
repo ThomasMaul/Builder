@@ -1,0 +1,53 @@
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/UsersAndGroups.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/4DSLI.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/Write.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/SVG.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/4DZip.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/HTTPServer.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/LDAPComponent.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/MonitorGraph.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/PDF.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/SQLServer.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/CodeEditor.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerWebKit.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/4D Helper (Renderer).app: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libswiftshader_libGLESv2.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libGLESv2.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libvk_swiftshader.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libswiftshader_libEGL.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libEGL.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/Chromium Embedded Framework.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/4D Helper.app: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/4D Helper (GPU).app: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle/Contents/Frameworks/4D Helper (Plugin).app: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Native Components/WebViewerCEF.bundle: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libz.1.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libxerces-c_3_2.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libcrypto.1.1.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/KernelIPC.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/DB4D.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/Kernel.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/ServerNet.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libicuuc.68.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libhunspell.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/XML.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libssl.1.1.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/GUI.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libicui18n.68.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/SwiftNetwork.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/TextCore.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/SQLConnector.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libzip.5.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/libicudata.68.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Frameworks/Graphics.framework: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/SASL Plugins/libdigestmd5.plugin: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Resources/Internal Components/preferences.4dbase/Libraries/lib4d-arm64.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Resources/Internal Components/runtime.4dbase/Libraries/lib4d-arm64.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Resources/Internal User Components/4D Report.4dbase/Libraries/lib4d-arm64.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Resources/Internal User Components/4D Labels.4dbase/Libraries/lib4d-arm64.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Resources/Updater/Updater.app/Contents/Frameworks/libxerces-c_3_2.dylib: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/Resources/Updater/Updater.app: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/MacOS/InstallTool.app/Contents/Library/LaunchServices/com.4D.Helper: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app//Contents/MacOS/InstallTool.app: is already signed
+/Users/thomas/Desktop/Buildtest/test Client.app/: replacing existing signature
+/Users/thomas/Desktop/Buildtest/test Client.app/: signed app bundle with Mach-O universal (x86_64 arm64) [com.4D.test.client]

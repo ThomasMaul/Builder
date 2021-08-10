@@ -1,0 +1,24 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "ytest"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483645,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "Builder",
+				"methodPath": "/SOURCES/Classes/Builder.4dm"
+			}
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}

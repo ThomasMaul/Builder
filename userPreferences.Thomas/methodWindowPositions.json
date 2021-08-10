@@ -1,0 +1,32 @@
+{
+	"Sources/Classes/Builder.4dm": {
+		"left": 83,
+		"top": 280,
+		"width": 1620,
+		"height": 1014
+	},
+	"Sources/Methods/ytest.4dm": {
+		"left": 459,
+		"top": 124,
+		"width": 1781,
+		"height": 1171
+	},
+	"Trash/Methods/(yCreateSettings).4dm": {
+		"left": 435,
+		"top": 311,
+		"width": 1577,
+		"height": 996
+	},
+	"Trash/Methods/(ytest2).4dm": {
+		"left": 1026,
+		"top": 278,
+		"width": 1577,
+		"height": 996
+	},
+	"Sources/Methods/ytest2.4dm": {
+		"left": -7,
+		"top": 329,
+		"width": 1907,
+		"height": 1014
+	}
+}
